@@ -58,8 +58,14 @@ img {
 }
 
 .footer__note:hover {
-        background-color: rgb(48, 48, 48);
-    }
+    background-color: rgb(48, 48, 48);
+    color: #ddd;
+}
+
+.footer__note:hover a {
+    color: rgb(131, 131, 131);
+}
+
 a {
     text-decoration: none;
 }
