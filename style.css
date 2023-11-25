@@ -37,3 +37,13 @@ img {
     height: 2px;
     background-color: #fff;
 }
+
+.footer__note {
+    margin-top: 4rem;
+    font-size: 12px;
+}
+
+a {
+    color: #ddd;
+    text-decoration: none;
+}
