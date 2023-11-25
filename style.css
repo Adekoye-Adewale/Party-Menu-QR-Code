@@ -11,6 +11,10 @@ body {
     text-align: center;
 }
 
+p {
+    color: #ddd;
+}
+
 .menu__wrap {
     display: flex;
     justify-content: center;
