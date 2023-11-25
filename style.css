@@ -4,15 +4,24 @@
 
 body {
     font-size: 1.2rem;
-    font-family: 'Stay Wild', Arial, Helvetica, sans-serif;
+    font-family: 'jost', Arial, Helvetica, sans-serif;
     margin: 0px auto;
     padding: 30px 10px;
     max-width: 400px;
     text-align: center;
 }
 
+h1, h2, h3, h4 {
+    font-family: pac;
+    font-size: 2.5rem;
+}
+
 p {
     color: #ddd;
+}
+
+img {
+    border-radius: 25px;
 }
 
 .menu__wrap {
@@ -24,7 +33,7 @@ p {
 
 .menu__wrap span {
     display: block;
-    width: 80px;
+    width: 50px;
     height: 2px;
     background-color: #fff;
 }

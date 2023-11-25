@@ -1,4 +1,10 @@
 @font-face {
-  font-family: 'Stay Wild';
-  src: url(./Stay-Wild.woff2) format('woff2');
+  font-family: 'jost';
+  src: url(/assets/Jost.woff2) format('woff2');
 }
+
+@font-face {
+  font-family: 'pac';
+  src: url(/assets/pac.woff2) format('woff2');
+}
+
